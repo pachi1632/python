@@ -1,0 +1,62 @@
+Competencies Displayed
+=====================================================================================================================
+
+• Knowledge in building Front End and Back End of Web Applications
+     - During the work experience from 2018 to 2020 Worked as a Full stack Java developer, the only technical member in the team, to gather client requirement, convert them into API documentation and develop Java code and Angular 6 code, integrate, test and deploy them in the testing environment
+     - During the work experience from 2020 to 2021 worked as a team member to write java code spring batch jobs
+     - During the work experience from 2021 to 2022 acted as a Team Lead/ Software developer to lead a team 5 Members to develop a microservices based enterprice application in Java 8 and Angular 12 and also actively contributed in writing the code
+     - During the work experience from 2022 to 2023 gave production support and wrote code for the SR's for an application developed using EJB's and servlets
+• Knowledge in SCRUM/Agile software development methodologies.
+     - During the work experience from 2021 to 2023 involved in daily SCRUM meetings
+     - During the work experience from 2021 to 2022, took responsibility of 10+ sprints for a micro services based application and delivered successfully using Agile Software methodologies
+• Knowledge wit Java, RESTful and relational databases.
+     - Extensively wrote code and delivered RESTful APIs using Java and Relational databases for more than 5 projects for the tenure of 5 Years and 5 Months
+• Knowledge in Angular JS, React JS, Node.JS and JavaScript experience is advantageous.
+     - Extensively worked on Angular 6/12 for 2 Projects for a tenure of 3 years
+• Familiarity with API design principles, RESTful architectures, and JSON/XML data formats.
+     - Extensively wrote code and delivered RESTful APIs using Java and Relational databases for more than 5 projects for the tenure of 5 Years and 5 Months
+     - Wrote JAVA code to integrate enterprice application to Oracle Transport Management (OTM) by leveraging SOAP APIs for a duration of 3 months
+     - Extensively worked on XML documents during the production support in the duration 2022 to 203
+• Knowing Linux environment, virtualization and container and knowledge about Dockers and Kubernetes.
+     - Performed manual deployments on Digital Ocean servers with Linux environments
+• Positive attitude and willing to learn new skills.
+     - In the latest work experience from 2022 to 2023 valunteered to develop an automated solution using .NET technology
+     - Have valunteered and lead the process of introducing automateed testing instead of manual testing during the tenure of 2021 to 2022
+• Team player with good interpersonal and communication skills
+     - Have a track record of worked and excelled as a team member for more than 4 Years
+     - Demonstrated good interpersonal and coomunication skills with team members and other stake holders to deliver the project deliverable within the deadline and Prepared and presented various status reports for the senior management and the stakeholders to enable effective decision-making.
+
+
+=====================================================================================================================
+Demonstration of Competencies:
+
+1. Knowledge in building Front End and Back End of Web Applications:**
+   - Worked as a Full Stack Java Developer from 2018 to 2020, leading the development of both Front End (Angular 6) and Back End (Java) components for client projects.
+   - Acted as a Team Lead/Software Developer from 2021 to 2022, leading a team in the development of a microservices-based enterprise application using Java 8 and Angular 12.
+
+2. Knowledge in SCRUM/Agile Software Development Methodologies:**
+   - Engaged in daily SCRUM meetings from 2021 to 2023.
+   - Took responsibility for 10+ sprints from 2021 to 2022, successfully delivering a microservices-based application using Agile methodologies.
+
+3. Knowledge in Java, RESTful, and Relational Databases:**
+   - Delivered multiple projects over 5 years, extensively writing code for RESTful APIs using Java and relational databases.
+   
+4. Knowledge in Angular JS, React JS, Node.JS, and JavaScript:**
+   - Worked extensively on Angular 6/12 for two projects spanning three years.
+
+5. Familiarity with API Design Principles, RESTful Architectures, and JSON/XML Data Formats:**
+   - Developed RESTful APIs using Java and relational databases for multiple projects.
+   - Integrated an enterprise application with Oracle Transport Management (OTM) using SOAP APIs.
+   - Worked extensively with XML documents during production support in 2022 to 2023.
+
+6. Knowing Linux Environment, Virtualization, and Containers, and Knowledge about Dockers and Kubernetes:**
+   - Performed manual deployments on Digital Ocean servers with Linux environments.
+
+7. Positive Attitude and Willingness to Learn New Skills:**
+   - Volunteered to develop an automated solution using .NET technology in the latest work experience from 2022 to 2023.
+   - Led the introduction of automated testing instead of manual testing from 2021 to 2022.
+
+8. Team Player with Good Interpersonal and Communication Skills:**
+   - Demonstrated excellence as a team member for over four years.
+   - Exhibited strong interpersonal and communication skills with team members and stakeholders, delivering projects within deadlines.
+   - Prepared and presented various status reports for senior management and stakeholders, contributing to effective decision-making.
